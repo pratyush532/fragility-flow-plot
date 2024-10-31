@@ -53,7 +53,7 @@ def plot_fragility_flow(df_trial, x_vals, y_vals, beta, nb, ns, ncontours,
     contour_plot = go.Figure(data=go.Contour(x=x_vals, y=y_vals, z=Z, contours_coloring='lines', 
                                              colorbar={
                                                             "title": "Contour legend",
-                                                            "nticks":10,
+                                                            "nticks":15,
                                                             "titleside": "right",
                                                             "ticks": "outside",
                                                             "tickcolor": "black",
