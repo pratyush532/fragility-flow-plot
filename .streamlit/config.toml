@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4a90e2"        # Soft blue for buttons and links
+backgroundColor = "#f8f9fa"     # Light background color
+secondaryBackgroundColor = "#ffffff"  # Slightly lighter for containers
+textColor = "#333333"           # Dark text for readability
+font = "sans serif"
